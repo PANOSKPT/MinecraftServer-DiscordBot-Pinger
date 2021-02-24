@@ -1,10 +1,10 @@
 {
-    "BOT_TOKEN": "", 
+    "BOT_TOKEN": "Your_bot's_token", 
     "prefix": "/", 
     "CMD": "ping", 
-    "ip": "pizzalandmc.ddns.net",  
+    "ip": "The_ip_of_the_minecraft_server_you_want_it_to_ping",  
     "port": "25565", 
-    "ServerName": "Pizzaland", 
-    "ServerWebsite": "https://panoskpt.glitch.me", 
-    "ServerLogo": "https://msglbpq1fhleujc1z605aw-on.drv.tw/VictoriaRP_quickHost/pizza-trns.png"
+    "ServerName": "The_name_of_the_server", 
+    "ServerWebsite": "The_website_of_the_server", 
+    "ServerLogo": "The_logo_of_the_server(in_url)"
 }
