@@ -2,7 +2,7 @@
 This is a simple discord bot that will ping your minecraft server (using [this](https://mcapi.us/)) and show the status of it in a discord embed.
 
 ## Required packages
-To run this bot you will need to install two pakages:
+To run this bot you will need to install ([node.js](https://nodejs.org/)) two pakages:
 1. **discord.js** `npm install discord.js`
 2. **request** `npm install request`
 
