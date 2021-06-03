@@ -13,4 +13,4 @@ To run this bot you will need to install ([node.js](https://nodejs.org/)) and th
 
 ## Run
 To actually run the bot you will need to run the following command:
-`node index.js`
+`node bot.js`
