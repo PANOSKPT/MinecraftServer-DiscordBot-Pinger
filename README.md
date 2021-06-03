@@ -10,3 +10,7 @@ To run this bot you will need to install ([node.js](https://nodejs.org/)) and th
 1. Open the `config.json` file.
 2. Change the `BOT_TOKEN` to your bot's token.
 3. You can also change the **prefix**, **command** (CMD), **ip**, **port** (if needed), **ServerName**, **ServerWebsite** and **ServerLogo**.
+
+## Run
+To actually run the bot you will need to run the following command:
+`node index.js`
